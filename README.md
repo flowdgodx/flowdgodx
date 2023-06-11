@@ -1,26 +1,37 @@
 
+
+-   🎓 Student of Computer Enginering
+-   💻 Developer for [Okok Scripts](https://okok.tebex.io)
+-   👨🏽‍💻 Creator of [Flowd Scripts](https://flowd.tebex.io)
+
+
+
+##
+
 <div>
     <a href="https://github.com/flowdgodx">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=flowdgodx&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
 	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flowdgodx&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
   
-<div style="display: inline_block"><br>
-<img align="center" alt="Flowd-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-	<img align="center" alt="Flowd-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-	<img align="center" alt="Flowd-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-	<img align="center" alt="Flowd-PYTHON" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-	<img align="center" alt="Flowd-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-	<img align="center" alt="Flowd-swift" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
-	<img align="center" alt="Flowd-LUA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-plain-wordmark.svg">
-</div>
+##
+	
+🚀 **My languages**  
+	
+<code><img height="20" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></code>
+<code><img height="20" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/Python-0073b7?style=for-the-badge&logo=python&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/MySQL-0000FF?style=for-the-badge&logo=mysql&logoColor=white"></code>
+
   
 ##
   
-<div>
-	<a href="https://www.youtube.com/@flowdscripts" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-	<a href="https://discord.gg/gb4Z36fGX2" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
-	<a href="https://steamcommunity.com/id/flowdgodx" target="_blank"><img src="https://img.shields.io/badge/Steam-1B2838?style=for-the-badge&logo=steam&logoColor=white"></a>
-	<a href="https://paypal.me/flowdx?country.x=PT&locale.x=pt_PT" target="_blank"><img src="https://img.shields.io/badge/PayPal-0070BA?style=for-the-badge&logo=paypal&logoColor=white"></a>
-	<a href="https://flowd.tebex.io" target="_blank"><img src="https://img.shields.io/badge/Tebex-184494?style=for-the-badge&logo=tebex&logoColor=white"></a>
-</div>
+🌐 **Social media**
+	
+[<code><img height="20" src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=Youtube&logoColor=white"></code>](https://www.youtube.com/@flowdscripts)
+[<code><img height="20" src="https://img.shields.io/badge/Steam-1B2838?style=for-the-badge&logo=steam&logoColor=white"></code>](https://steamcommunity.com/id/flowdgodx)
+[<code><img height="20" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></code>](https://discord.gg/gb4Z36fGX2)
+[<code><img height="20" src="https://img.shields.io/badge/PayPal-0070BA?style=for-the-badge&logo=paypal&logoColor=white"></code>](https://paypal.me/flowdx?country.x=PT&locale.x=pt_PT)
+[<code><img height="20" src="https://img.shields.io/badge/Tebex-184494?style=for-the-badge&logo=tebex&logoColor=white"></code>](https://flowd.tebex.io)
