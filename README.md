@@ -1,8 +1,8 @@
 
 
 -   🎓 Computer Enginering Student
--   💻 Developer for [Okok Scripts](https://okok.tebex.io)
--   👨🏽‍💻 Creator of [Flowd Scripts](https://flowd.tebex.io)
+-   💻 Developer for [okok Scripts](https://okok.tebex.io)
+-   👨🏽‍💻 Creator of [flowd Scripts](https://flowd.tebex.io)
 
 
 
