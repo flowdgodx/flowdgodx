@@ -1,7 +1,8 @@
 
 
 -   🎓 Computer Enginering Student
--   💻 Developer for [okok Scripts](https://okok.tebex.io)
+-   💻 Developer for [qbcore framework](https://github.com/qbcore-framework)
+-   ⭐️ Developer for [okok Scripts](https://okok.tebex.io)
 -   👨🏽‍💻 Creator of [Flowd Scripts](https://flowd.tebex.io)
 
 
