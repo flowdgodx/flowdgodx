@@ -1,6 +1,4 @@
 
-
--   🎓 Computer Enginering Student
 -   💻 Developer for [Wasabi Scripts](https://wasabiscripts.com/) & [okok Scripts](https://okok.tebex.io)
 -   👨🏽‍💻 Creator of [Flowd Scripts](https://flowd.tebex.io)
 
