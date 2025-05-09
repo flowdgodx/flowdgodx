@@ -2,6 +2,7 @@
 
 -   🎓 Computer Enginering Student
 -   💻 Developer for [okok Scripts](https://okok.tebex.io)
+-   💻 Developer for [Wasabi Scripts](https://wasabiscripts.com/)
 -   👨🏽‍💻 Creator of [Flowd Scripts](https://flowd.tebex.io)
 
 
