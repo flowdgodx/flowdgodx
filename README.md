@@ -22,7 +22,6 @@
 <code><img height="20" src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/Python-0073b7?style=for-the-badge&logo=python&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/MySQL-0000FF?style=for-the-badge&logo=mysql&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"></code>
 
   
 ##
