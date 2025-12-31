@@ -2,14 +2,14 @@
 -   💻 Developer for [Wasabi Scripts](https://wasabiscripts.com/) & [okok Scripts](https://okok.tebex.io)
 -   🕹 Founder of [The Boys CS2](https://cs2.theboys.com/) & [Flowd Scripts](https://flowd.tebex.io)
 
-
+<!--
 ##
 
-<div>
+ <div>
     <a href="https://github.com/flowdgodx">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=flowdgodx&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
 	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flowdgodx&layout=compact&langs_count=7&theme=github_dark"/>
-</div>
+</div> -->
   
 ##
 	
@@ -18,9 +18,16 @@
 <code><img height="20" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></code>
 <code><img height="20" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/Python-0073b7?style=for-the-badge&logo=python&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/MySQL-0000FF?style=for-the-badge&logo=mysql&logoColor=white"></code>
+
+<code><img height="20" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></code>
+<code><img height="20" src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"></code>
+
 
   
 ##
