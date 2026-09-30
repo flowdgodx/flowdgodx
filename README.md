@@ -1,6 +1,5 @@
 
--   💻 Developer for [Wasabi Scripts](https://wasabiscripts.com/) & [okok Scripts](https://okok.tebex.io)
--   🕹 Founder of [The Boys CS2](https://cs2.theboys.com/) & [Flowd Scripts](https://flowd.tebex.io)
+-   🧢 Manager & Developer [okok Scripts](https://okok.tebex.io)
 
 <!--
 ##
