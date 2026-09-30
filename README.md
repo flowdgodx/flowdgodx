@@ -1,5 +1,5 @@
 
--   🧢 Manager & Developer [okok Scripts](https://okok.tebex.io)
+-   💻 Manager & Developer at [okok Scripts](https://okok.tebex.io)
 
 <!--
 ##
